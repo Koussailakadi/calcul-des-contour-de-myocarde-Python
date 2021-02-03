@@ -1,0 +1,7 @@
+--application :
+
+1-cliquer sur l'application main puis attendre qu'elle soit ouverte
+2-vous suiverez les instruction dans l'application
+3-clique sur quiter application pour la fermer
+
+4- l'application n'est pas encore parfaite, on l'améliorera dans la phase 3
