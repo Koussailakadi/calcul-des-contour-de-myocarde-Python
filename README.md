@@ -1,4 +1,4 @@
-# calcul-des-contour-de-myocarde-
+# calcul des contours du myocarde (paroi du muscle cardiaque) 
 
 le but de projet est d'estimer un contour pour un nuage de point correspondant au contour d'un myocarde,
 en utilisant des hyper-quadrique et des algorithmes d'optimisation tel que la descente de gradient, la méthode 
